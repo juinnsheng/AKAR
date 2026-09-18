@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AsliConnect — AKAR Connect Demo
 
 A front-end-only React prototype of **AKAR Connect** (Access, Keusahawanan,
@@ -106,3 +107,6 @@ akar-connect/
   database-free. When you're ready, replace the static imports in
   `src/data.js` with `fetch()` calls to an API, and swap in-memory
   state for real auth and persistence.
+=======
+# AKAR
+>>>>>>> c5d733c1bbf0edad56359a53fb2d1dd2c4b48906
